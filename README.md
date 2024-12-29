@@ -3,6 +3,6 @@ Simple BASH script to copy your files to your nginx remote server and giving you
 
 Fill in the $server and $host variables before using.
 
-usage: servercp <filename> <destination dir>
+usage: `servercp <filename> <destination dir>`
 
-./servercp ls will all also list the directory targets on the remote target.
+`./servercp ls` will all also list the directory targets on the remote target.
